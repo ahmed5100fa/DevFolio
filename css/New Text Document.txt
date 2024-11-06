@@ -1,0 +1,26 @@
+@media (max-width: 735px) {
+    .carousel-indicators {
+        display: flex !important;
+        bottom: 20px;
+        left: 0%;
+}
+}
+
+@media (max-width: 1199px) {
+    nav .container {
+        width: 90% !important;
+    }
+}
+
+@media(max-width:578px){
+    .s3 {
+        height: 1200px;
+    }
+}
+
+@media (max-width: 768px) {
+    .s5 .carousel-indicators {
+        display: none; 
+    }
+}
+
